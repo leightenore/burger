@@ -11,3 +11,4 @@ Technologies Utilized:
 * Node.js
 * Express.js
 * Handlebars.js
+* MySQL
